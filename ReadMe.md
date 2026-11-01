@@ -1,4 +1,9 @@
+## About me
+I am a B.Tech student specializing in Artificial Intelligence and Machine Learning, building a strong foundation in programming, mathematics, data structures, and AI/ML concepts.
 
+My current focus is on developing skills in Python, C++, SQL, data analysis, and machine learning through coursework and hands-on projects.
+
+I am interested in building practical AI/ML solutions and continuously improving my technical skills through projects, certifications, and problem-solving.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/K Pranav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kpranav8128@gmail.com) 
 
